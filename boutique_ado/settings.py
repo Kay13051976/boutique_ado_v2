@@ -26,7 +26,8 @@ SECRET_KEY = 'django-insecure-km!=lsa$&ypb+)2u&vn&#xh7sl02uzp0@(2z777p3tlzpy@&t#
 DEBUG = True
 
 ALLOWED_HOSTS = ['8000-kay13051976-boutiqueado-6p0du4zmmc9.ws-eu108.gitpod.io',
-                 '8000-kay13051976-boutiqueado-6p0du4zmmc9.ws-eu110.gitpod.io',]
+                 '8000-kay13051976-boutiqueado-6p0du4zmmc9.ws-eu110.gitpod.io',
+                 '8000-kay13051976-boutiqueado-3k0he4c24a4.ws-eu110.gitpod.io',]
 
 
 # Application definition
